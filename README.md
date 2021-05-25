@@ -1,3 +1,3 @@
 # Hotel-website
 
-Hotel website using HTML, CSS, JS and Bootstrap
+Responsive hotel website using HTML, CSS, JS and Bootstrap
